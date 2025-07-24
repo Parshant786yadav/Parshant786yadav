@@ -1,83 +1,85 @@
 <h1 align="center">Hi 👋, I'm Parshant Yadav</h1>
-<h3 align="center">Final Year CSE (AI & ML) Student | Full Stack Developer | DSA Enthusiast</h3>
+<h3 align="center">A Passionate Full Stack Developer and Problem Solver from India</h3>
 
 <p align="center">
-  <a href="https://parshantyadav.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge&logo=google-chrome" />
+  <img src="https://komarev.com/ghpvc/?username=Parshant786yadav&label=Profile%20views&color=0e75b6&style=flat" alt="Parshant786yadav" />
+</p>
+
+---
+
+🌟 **About Me**
+
+- 🎓 Final year B.Tech student (CSE - AI & ML), MDU University  
+- 🔭 Currently building real-world full-stack & AI-based projects  
+- 🌱 Learning new technologies like TypeScript, Next.js, etc.  
+- 💼 Open to SDE, Full Stack, and Machine Learning roles  
+- 📫 Reach me at: **parshant786yadav@gmail.com**
+
+---
+
+🛠️ **Tech Stack**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,react,html,css,tailwind,mysql,git,github,vscode,pycharm&perline=7" alt="Tech Stack" />
+</p>
+
+---
+
+📚 **Core Competencies**
+
+- 🚀 Full Stack Development: HTML, CSS, Tailwind CSS, React, TypeScript, JavaScript  
+- 💡 DSA: 200+ problems solved on LeetCode & GFG using Python  
+- 💻 Programming Languages: C++, Python, JavaScript  
+- 🗄️ Database: MySQL, SQL  
+- 🛠️ Tools: Git, GitHub, VS Code, PyCharm  
+- 📘 Courses: AI, ML, DBMS, OOPS, Software Dev, CN, DSA  
+
+---
+
+🔗 **Connect with me**
+
+<p align="left">
+  <a href="https://linkedin.com/in/parshant786" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="30" />
   </a>
-  <a href="https://linkedin.com/in/parshant786" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  &nbsp;
+  <a href="https://parshantyadav.com" target="blank">
+    <img align="center" src="https://img.icons8.com/external-flat-icons-inmotus-design/64/000000/external-website-seo-flat-icons-inmotus-design.png" alt="website" height="30" width="30" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Parshant786yadav&label=Profile+Views&color=brightgreen&style=for-the-badge" alt="view counter" />
 </p>
 
 ---
 
-### 🚀 About Me
-
-🎓 I’m a final-year B.Tech student in CSE (AI & ML) from MDU University.  
-💻 I'm passionate about Full Stack Development and DSA.  
-📚 I’ve solved **200+ DSA problems** on LeetCode & GeeksForGeeks.  
-🌐 I build responsive, dynamic web apps and tools using the MERN stack.  
-🧠 Always curious to learn new technologies in AI, ML & DevOps.
-
----
-
-### 💼 Tech Stack
-
-#### 🌍 Full Stack Development:
-- HTML5, CSS3, Tailwind CSS
-- JavaScript, TypeScript
-- React.js
-- Node.js, Express.js
-
-#### 💾 Programming:
-- Python, C++, JavaScript
-
-#### 🧠 DSA & Problem Solving:
-- Python (200+ problems solved)
-
-#### 🗃️ Database & Language:
-- MySQL, SQL
-
-#### 🛠️ Tools & Platforms:
-- Git, GitHub, VS Code, PyCharm
-
-#### 📚 Course Work:
-- Artificial Intelligence, Machine Learning  
-- DBMS, Software Engineering  
-- OOPs, DSA, Computer Networks
-
----
-
-### 📊 GitHub Stats
+📊 **GitHub Stats**
 
 <p align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=Parshant786yadav&show_icons=true&theme=tokyonight" />
-  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=Parshant786yadav&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Parshant786yadav&show_icons=true&theme=tokyonight&hide_border=false" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Parshant786yadav&theme=tokyonight&hide_border=false" width="48%" />
 </p>
 
 ---
 
-### 🧠 Most Used Languages
+🌟 **Top Languages**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parshant786yadav&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parshant786yadav&layout=compact&theme=tokyonight&hide_border=false" />
 </p>
 
 ---
 
-### ⚡ Fun Facts
-- 🔭 I’m currently working on AI-Based Attendance System  
-- ✍️ I write clean, scalable, and modular code  
-- 🤝 I love collaborating on Open Source projects  
-- 📫 Reach me at **parshant786yadav@gmail.com**
+🖼️ **Random Dev Quote**
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</p>
 
 ---
 
-### 🔗 Let's Connect
+✍️ **Latest Activity & Contributions**
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 <p align="center">
-  <a href="https://parshantyadav.com"><img src="https://img.shields.io/badge/My Website-grey?style=flat&logo=Google-Chrome&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/parshant786"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" /></a>
-  <a href="mailto:parshant786yadav@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <img src="https://activity-graph.herokuapp.com/graph?username=Parshant786yadav&theme=github" />
 </p>

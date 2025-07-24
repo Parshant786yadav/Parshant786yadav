@@ -2,7 +2,8 @@
 <h3 align="center">A Passionate Full Stack Developer and Problem Solver from India</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Parshant786yadav&label=Profile%20views&color=0e75b6&style=flat" alt="Parshant786yadav" />
+  ![Views](https://img.shields.io/badge/Profile%20Views-620-brightgreen?style=for-the-badge)
+
 </p>
 
 ---

@@ -1,8 +1,9 @@
-<h1 align="center">Hi 👋, I'm Parshant Yadav</h1>
+<h1 align="center">Hi 👋 I'm Parshant</h1>
 <h3 align="center">A Passionate Full Stack Developer and Problem Solver from India</h3>
 
 <p align="center">
-  ![Views](https://img.shields.io/badge/Profile%20Views-620-brightgreen?style=for-the-badge)
+  
+<img src="https://komarev.com/ghpvc/?username=Parshant786yadav&label=Profile%20views&color=0e75b6&style=flat" alt="Parshant786yadav" />
 
 </p>
 
@@ -39,7 +40,7 @@
 
 🔗 **Connect with me**
 
-<p align="center">
+<p align="left">
   <a href="https://www.instagram.com/its_yduvnshi/" target="_blank">
     <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram"/>
   </a>

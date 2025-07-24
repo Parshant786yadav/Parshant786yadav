@@ -38,15 +38,24 @@
 
 🔗 **Connect with me**
 
-<p align="left">
-  <a href="https://linkedin.com/in/parshant786" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="30" />
+<p align="center">
+  <a href="https://www.instagram.com/its_yduvnshi/" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram"/>
   </a>
-  &nbsp;
-  <a href="https://parshantyadav.com" target="blank">
-    <img align="center" src="https://img.icons8.com/external-flat-icons-inmotus-design/64/000000/external-website-seo-flat-icons-inmotus-design.png" alt="website" height="30" width="30" />
+  <a href="https://www.snapchat.com/add/its_yduvnshi" target="_blank">
+    <img src="https://img.icons8.com/color/48/snapchat.png" alt="Snapchat"/>
+  </a>
+  <a href="https://www.linkedin.com/in/parshant786/" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn"/>
+  </a>
+  <a href="https://wa.me/918826448907" target="_blank">
+    <img src="https://img.icons8.com/color/48/whatsapp.png" alt="WhatsApp"/>
+  </a>
+  <a href="mailto:parshant786yadav@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/gmail--v1.png" alt="Gmail"/>
   </a>
 </p>
+
 
 ---
 

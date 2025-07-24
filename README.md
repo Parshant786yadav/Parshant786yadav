@@ -80,6 +80,5 @@
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Parshant786yadav&theme=github" />
-</p>
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Parshant786yadav&theme=github-compact)
+

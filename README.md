@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Parshant</h1>
-<h3 align="center">A Passionate Full Stack Developer and Problem Solver from India</h3>
+<h3 align="center">Passionate SDE | Full Stack Developer from India </h3>
 
 <p align="center">
   
